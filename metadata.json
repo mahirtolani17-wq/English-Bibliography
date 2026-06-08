@@ -1,0 +1,6 @@
+{
+  "name": "Mahir Tolani English Project Bibliography",
+  "description": "A bibliography page for an English project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
